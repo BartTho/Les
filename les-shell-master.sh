@@ -1,2 +1,2 @@
-wget -O - https://raw.githubusercontent.com/BartTho/Les/master/demo0.tar
+wget -O - https://github.com/BartTho/Les/raw/master/demo0.tar
 tar -xvf demo.tar .
